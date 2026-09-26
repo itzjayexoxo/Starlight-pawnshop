@@ -1,4 +1,4 @@
-# 💎 Quantum Pawnshop — Free FiveM Pawnshop Job
+# 💎 Starlight Pawnshop — Free FiveM Pawnshop Job
 
 A fully-featured **FiveM Pawnshop Job** built for **Qbox/QBX**, designed around a realistic player-to-pawnshop buying system with employee-controlled pricing, an offline public buyer, and a dedicated back-room appraiser.
 
@@ -183,7 +183,7 @@ The dynamic NPC system means players can always sell their items, while having p
 
 This resource is being released **completely free** for the FiveM community.
 
-If you use it on your server, feel free to credit **Quantum Developments**.
+If you use it on your server, feel free to credit **Starlight Developments**.
 
 Please do not re-upload, resell, or claim the resource as your own.
 
